@@ -1,2 +1,4 @@
 # Tesis_Zambrano_Meza
-Trabajo de grado
+Artículo científico
+
+CLASIFICACIÓN MULTINOMIAL CON KERAS
